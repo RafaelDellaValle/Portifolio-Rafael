@@ -210,7 +210,14 @@ section {
 .skill-category h3 {
     margin-bottom: 1.5rem;
     color: var(--primary-color);
+    
+    
 }
+
+.skill-list2 {
+    margin-top: 53px;
+}
+
 
 .skill-item {
     margin-bottom: 1.5rem;
